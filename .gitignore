@@ -1,0 +1,13 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Prometheus binaries
+prometheus-3.15.0.windows-amd64/
+
+# Generated reports
+drift_report.html
+
+# Optional local files
+*.log

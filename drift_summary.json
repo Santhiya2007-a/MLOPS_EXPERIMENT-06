@@ -1,0 +1,7 @@
+{
+  "reference_rows": 150,
+  "current_rows": 150,
+  "drift_detected": true,
+  "drifted_columns": 3,
+  "total_columns": 4
+}
